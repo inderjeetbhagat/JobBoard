@@ -1,5 +1,6 @@
 package com.jobapp.first.job;
 
+import com.jobapp.first.company.Company;
 import org.springframework.boot.autoconfigure.batch.BatchProperties;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
